@@ -91,9 +91,9 @@ The following calculated columns were created:
 ---
 
 ## 📌 Important Terminologies:
--**🌧️ Kharif Season:** The monsoon season, generally from June to October, when crops are mainly grown with seasonal rainfall.
--**❄️ Rabi Season:** The winter season, generally from October/November to March/April, suitable for crops grown in cooler and relatively dry conditions.
--**☀️ Zaid Season:** The short summer season, generally from March to June, when crops are cultivated between the Rabi and Kharif seasons.
+- **🌧️ Kharif Season:** The monsoon season, generally from June to October, when crops are mainly grown with seasonal rainfall.
+- **❄️ Rabi Season:** The winter season, generally from October/November to March/April, suitable for crops grown in cooler and relatively dry conditions.
+- **☀️ Zaid Season:** The short summer season, generally from March to June, when crops are cultivated between the Rabi and Kharif seasons.
 
 ---
 
